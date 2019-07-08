@@ -1,6 +1,6 @@
 # k-mean-clustring
 
-Required technologies to be installed 
+Required technologies to be install
 
 1. python
 2. Numpy
