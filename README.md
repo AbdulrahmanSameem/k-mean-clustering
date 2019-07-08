@@ -1,4 +1,4 @@
-# k-mean-clustring
+# k-mean-clustering
 
 Required technologies to be install
 
